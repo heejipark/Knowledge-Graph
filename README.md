@@ -1,2 +1,2 @@
-# Knowlege-graph
-USC DSCI558 - Knowlege graph
+# This is a repository for Knowledge Graph
+
